@@ -1,4 +1,5 @@
 #=================================================================
+# array from https://goo.gl/FKUWTy
 # func
 def chkAEIOU(char)
         char = char.downcase
